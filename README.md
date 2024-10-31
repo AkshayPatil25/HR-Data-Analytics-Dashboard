@@ -2,6 +2,11 @@
 <img width="668" alt="HR Data Analytics" src="https://github.com/user-attachments/assets/b2bdeb31-ecd0-4335-9586-a74905d950cd">
 
 
+
+
+
+
+
 🚀 Diving Deep into HR Analytics: Key Insights Uncovered! 📊
 In the ever-evolving landscape of talent management, understanding the intricacies behind employee attrition is essential. I recently analyzed our comprehensive HR Analytics Dashboard, and the insights it revealed are both enlightening and actionable.
 
