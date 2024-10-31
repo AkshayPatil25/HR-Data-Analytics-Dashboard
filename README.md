@@ -1,7 +1,7 @@
 # HR-Data-Analytics-Dashboard
+
+
 <img width="668" alt="HR Data Analytics" src="https://github.com/user-attachments/assets/b2bdeb31-ecd0-4335-9586-a74905d950cd">
-
-
 
 
 
@@ -11,6 +11,7 @@
 In the ever-evolving landscape of talent management, understanding the intricacies behind employee attrition is essential. I recently analyzed our comprehensive HR Analytics Dashboard, and the insights it revealed are both enlightening and actionable.
 
 🔍 Dashboard Overview:
+
 Total Employees: 1,470
 Total Attrition: 237
 Attrition Rate: 16.1%
@@ -19,6 +20,7 @@ Average Salary: $6.5K
 Average Experience: 7 years
 
 Key Insights:
+
 1. Attrition by Education:
 Life Sciences (38%) and Medical (27%) professionals are the most affected, suggesting a need to reassess the work environment and career progression opportunities in these fields.
 Technical Degrees (14%) and Marketing (15%) also show notable attrition, indicating potential gaps in alignment with job roles or career growth.
